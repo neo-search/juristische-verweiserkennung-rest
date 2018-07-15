@@ -1,4 +1,4 @@
-package de.neosearch.verweiserkennung.rest;
+package de.neosearch.verweiserkennung.rest.controller;
 
 public class AnnotationRequest {
 	private String text;
